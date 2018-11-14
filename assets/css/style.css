@@ -1,0 +1,97 @@
+body {
+    background-image: url("../images/backimg.png");
+}
+
+header {
+    background-color: white;
+    height: 70px;
+    border-bottom: solid #777777 1px;
+}
+
+.siteheader {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: white;
+    box-sizing: border-box;
+    padding: 0px;
+    width: 960px;
+    height: 70px;
+    font-size:15px;
+}
+
+#namebox {
+    color: white;
+    font-size: 30px;
+    font-family: "Georgia", Times, "Times New Roman", serif; 
+    font-weight: bold;   
+    background-color: #4aaaa5;
+    float: left;
+    width: 295px;
+    line-height: 70px;
+    height: 70px;
+}
+
+#abouttab {
+    float: left;
+    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+    color: #777777;
+    width: 99px;
+    line-height: 70px;
+    height: 70px;
+    margin-left: 360px;
+}
+
+#porttab {
+    float: left;
+    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+    color: #777777;
+    width: 99px;
+    line-height: 70px;
+    height: 70px;
+}
+
+#conttab {
+    float: left;
+    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+    color: #777777;
+    width: 99px;
+    line-height: 70px;
+    height: 70px;
+}
+
+#head1 {
+    clear: both;
+    font-size: 30px;
+    font-family: "Georgia", Times, "Times New Roman", serif;
+    font-weight: bold;
+    border-bottom: solid #777777 3px;
+    padding-left: 10px;
+    line-height: 55px;
+    height: 55px;
+    color: #4aaaa5
+}
+
+#myimg1 {
+    float: left;
+    margin: 20px;
+}
+
+.content {
+    box-sizing: border-box;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 960px;
+    border: solid gray 1px;
+    padding: 10px;
+    color: #777777;
+    background-color: white;
+    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+    Height: 500px;
+}
+
+p{
+    margin: 20px;
+
+}
